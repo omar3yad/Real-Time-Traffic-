@@ -1,6 +1,6 @@
 Project Idea 4: Real-Time Traffic Monitoring and Analysis
 Week 1: SQL Database and Data Collection
-• Tasks:
+• Tasks: 
 o Database Design: Design a SQL database schema for managing traffic data,
 including tables for traffic sensors, traffic logs, and incidents.
 o Data Collection: Simulate or use real-time traffic data to populate the
